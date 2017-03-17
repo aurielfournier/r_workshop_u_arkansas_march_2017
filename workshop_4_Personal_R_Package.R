@@ -14,7 +14,7 @@ library(roxygen2)
 
 # step 1
 #setwd("parent_directory")
-create("package")
+create("~/r_workshop_u_arkansas_march_2017/package")
 
 # step 2
 
@@ -37,6 +37,7 @@ rail_function <- function(love=TRUE){
 
 some_random_data <- data.frame(a=1:10, b=rep(200,10),c="BIRDS RULE")
 
+# first go into your package folder and create a folder called "data" 
 save(some_random_data, file="~/naoc_2016_r_workshop/package/data/some_random_data.rda")
 
 # Step 3 

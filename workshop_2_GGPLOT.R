@@ -1,17 +1,16 @@
 ######################################
-## GGPLOT SECTION OF NAOC WORKSHOP
+## GGPLOT SECTION 
 ######################################
-# https://github.com/aurielfournier/naoc_2016_r_workshop
-# use install.packages() if you don't have these already
-library(dplyr)
-library(ggplot2) 
+# https://github.com/aurielfournier/r_workshop_u_arkansas_march_2017
+
+library(tidyverse)
 library(ggthemes)
 library(RColorBrewer)
-library(gridExtra)
+library(cowplot)
 library(gapminder) 
 
-#ggplot2 is built on the grammar of graphics, the idea that any plot can be
-#expressed from the same set of components: 
+# ggplot2 is built on the grammar of graphics, the idea that any plot can be
+# expressed from the same set of components: 
 # a **data** set
 # a **coordinate system**
 # and a set of **geoms** --the visual representation of data points.
@@ -153,7 +152,7 @@ ggplot(data = gapminder,
   aes(x = gdpPercap, y = lifeExp)) +
   geom_point(alpha=0.5) + 
   scale_x_log10() + 
-  geom_smooth(method="lm", aes(by=continent, size=1.5))
+  geom_smooth(method="lm", aes(group=continent, size=1.5))
 
 #We can make the line thicker by *setting* the **size** aesthetic in the
 #`geom_smooth` layer:
@@ -317,14 +316,32 @@ ggplot(gapminder, aes(x=gdpPercap, y=lifeExp))+
              aes(x=year, y=gdpPercap, group=country)) + 
   geom_line())
 
+(c <- ggplot(gapminder[gapminder$continent=="Africa",], 
+             aes(x=year, y=gdpPercap, group=country)) + 
+    geom_line())
+
+
+plot_grid(a,b,c,nrow=2)
+plot_grid(a,b,c, align="hv")
+
+
+# what if we want differing numbers of graphs in different rows? 
+p1 <- plot_grid(a,b,align="hv")
+plot_grid(p1, c, ncol=1)
+
+# what if we want to label things?
+p1 <- plot_grid(a,b,align="hv", labels=c("A","B"))
+plot_grid(p1, c, ncol=1, labels=c("","C"))
+
+
+
+#SAVE GRAPHS OUTSIDE OF R
+
 #ggsave(a, file="filenamehere.extension")
 ggsave(a, file="~/../Desktop/example_file.jpeg", 
        height=3, width=3, units="cm", dpi=600)
 
-grid.arrange(a,b,a,b,nrow=2)
 
 png("~/../Desktop/x.png", height=12, width=12, units="cm", res=300)
-
-grid.arrange(a,b,a,b,nrow=2)
-
+plot_grid(a,b,c,nrow=2)
 dev.off()

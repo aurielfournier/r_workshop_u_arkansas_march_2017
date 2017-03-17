@@ -1,4 +1,4 @@
-file_names <- list.files(pattern=".csv")
+file_names <- list.files("~/r_workshop_u_arkansas_march_2017/veg_data/",pattern=".csv", full.names = TRUE)
 
 # these are the vectors of values that I am ok with, with the correct spellings
 
@@ -37,4 +37,4 @@ for(i in 1:length(file_names)){
 masterdat <- do.call(rbind, vegsheets)
 
 # write it out into a master file
-write.csv(masterdat, "~/Github/data/2015_veg_master.csv", row.names=FALSE)
+write.csv(masterdat, "~/r_workshop_u_arkansas_march_2017/veg_data/2016_veg_master.csv", row.names=FALSE)

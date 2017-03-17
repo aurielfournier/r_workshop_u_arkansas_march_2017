@@ -1,0 +1,41 @@
+point,bv,month,day,year,habtype,spp,round,region,area,impound,int,annual,perennial,up,open,wood,other,crop,central,north,east,south,west,averagewater,plant1,plant2,plant3
+wpt9041,v,8,31,2016,ms,veg,2,nw,nvca,rail,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+wpt895,v,8,31,2016,ms,veg,2,nw,nvca,rail,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+wpt887,v,8,31,2016,ms,veg,2,nw,nvca,rail,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+wpt8911,v,8,31,2016,ms,veg,2,nw,nvca,rail,NA,NA,NA,NA,NA,NA,NA,NA,26,27,28,28,29,27.6,NA,NA,NA
+wpt8981,v,8,31,2016,ms,veg,2,nw,nvca,rail,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+wpt8941,v,8,31,2016,ms,veg,2,nw,nvca,rail,NA,NA,NA,NA,NA,NA,NA,NA,4,8,8,10,12,8.4,NA,NA,NA
+wpt9141,v,8,31,2016,ms,veg,2,nw,nvca,rail,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+wpt9201,v,8,31,2016,ms,veg,2,nw,nvca,rail,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+wpt8931,v,8,31,2016,ms,veg,2,nw,nvca,rail,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+wpt8921,v,8,31,2016,ms,veg,2,nw,nvca,rail,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+wpt9011,v,8,31,2016,ms,veg,2,nw,nvca,rail,NA,NA,NA,NA,NA,NA,NA,NA,0,2,5,6,6,3.8,NA,NA,NA
+wpt8831,v,8,31,2016,ms,veg,2,nw,nvca,rail,NA,NA,NA,NA,NA,NA,NA,NA,16,22,24,27,32,24.2,NA,NA,NA
+wptr007,v,8,31,2016,ms,veg,2,nw,nvca,rail,32,65,0,5,30,0,0,0,10,14,20,28,34,21.2,millet,a smartweed,grass
+wptr003,v,8,31,2016,ms,veg,2,nw,nvca,rail,29,80,0,10,10,0,0,0,17,18,18,18,19,18,a smartweed,millet,grass
+wpt888,v,8,31,2016,ms,veg,2,nw,nvca,rail,23,40,0,45,15,0,0,0,6,10,12,13,15,11.2,a smartweed,grass,grass
+wptr006,v,8,31,2016,ms,veg,2,nw,nvca,rail,38,35,0,5,60,0,0,0,30,34,38,45,40,37.4,a smartweed,millet,upland
+wptr002,v,8,31,2016,ms,veg,2,nw,nvca,rail,0,10,0,90,0,0,0,0,0,0,2,0,0,0.4,grass,grass,a smartweed
+wptr004,v,8,31,2016,ms,veg,2,nw,nvca,rail,25,15,0,45,40,0,0,0,0,0,0,0,0,0,grass,giant ragweed,a smartweed
+wptr001,v,8,31,2016,ms,veg,2,nw,nvca,rail,36,35,0,30,35,0,0,0,8,14,15,18,25,16,grass,a smartweed,millet
+wptr005,v,8,31,2016,ms,veg,2,nw,nvca,rail,22,60,0,30,10,0,0,0,2,0,1,0,0,0.6,grass,millet,a smartweed
+wpt986,v,8,31,2016,ms,veg,2,nw,nvca,sanctuary,NA,NA,NA,NA,NA,NA,NA,NA,1,6,27,0,0,6.8,NA,NA,NA
+wpt662,v,9,1,2016,ms,veg,2,nw,scnwr,scmsu2,0,70,9,20,0,1,0,0,0,0,0,0,0,0,a smartweed,upland,bulrush
+wpt668,v,9,1,2016,ms,veg,2,nw,scnwr,scmsu2,0,85,10,3,0,2,0,0,0,0,0,0,0,0,a smartweed,bulrush,cocklebur
+wpt667,v,9,1,2016,ms,veg,2,nw,scnwr,scmsu2,0,90,5,1,0,4,0,0,0,0,0,0,0,0,a smartweed,bulrush,willow
+wpt663,v,9,1,2016,ms,veg,2,nw,scnwr,scmsu2,35,40,0,40,20,0,0,0,0,0,0,0,0,0,upland,millet,grass
+wpt677,v,9,1,2016,ms,veg,2,nw,scnwr,scmsu2,35,40,0,40,20,0,0,0,0,0,0,0,0,0,millet,biden,grass
+wpt661,v,9,1,2016,ms,veg,2,nw,scnwr,scmsu2,24,10,0,80,10,0,0,0,0,0,0,0,0,0,upland,millet,sedge
+wpt673,v,9,1,2016,ms,veg,2,nw,scnwr,scmsu2,0,20,10,65,0,5,0,0,0,0,0,0,0,0,grass,a smartweed,bulrush
+wpt665,v,9,1,2016,ms,veg,2,nw,scnwr,scmsu2,0,75,10,15,0,0,0,0,0,0,0,0,0,0,a smartweed,cocklebur,bulrush
+wpt670,v,9,1,2016,ms,veg,2,nw,scnwr,scmsu2,0,10,5,85,0,0,0,0,0,0,0,0,0,0,upland,cocklebur,millet
+wpt664,v,9,1,2016,ms,veg,2,nw,scnwr,scmsu2,0,5,5,90,0,0,0,0,0,0,0,0,0,0,upland,cocklebur,a smartweed
+wpt666,v,9,1,2016,ms,veg,2,nw,scnwr,scmsu2,0,30,30,40,0,0,0,0,0,0,0,0,0,0,grass,a smartweed,bulrush
+wpt680,v,9,1,2016,ms,veg,2,nw,scnwr,scmsu2,0,0,1,95,4,0,0,0,0,0,0,0,0,0,grass,cottonwood,bulrush
+wpt649,v,9,1,2016,ms,veg,2,nw,scnwr,scmsu3,0,0,5,95,0,0,0,0,0,0,0,0,0,0,grass,upland,bulrush
+wpt654,v,9,1,2016,ms,veg,2,nw,scnwr,scmsu3,0,15,85,0,0,0,0,0,0,0,0,0,0,0,bulrush,a smartweed,millet
+wpt645,v,9,1,2016,ms,veg,2,nw,scnwr,scmsu3,0,10,65,25,0,0,0,0,0,0,0,0,0,0,bulrush,cocklebur,a smartweed
+wpt646,v,9,1,2016,ms,veg,2,nw,scnwr,scmsu3,0,10,85,4,0,1,0,0,0,0,0,0,0,0,bulrush,a smartweed,biden
+wpt647,v,9,1,2016,ms,veg,2,nw,scnwr,scmsu3,0,0,85,15,0,0,0,0,0,0,0,0,0,0,bulrush,cocklebur,p smartweed
+wpt642,v,9,1,2016,ms,veg,2,nw,scnwr,scmsu3,0,5,85,10,0,0,0,0,0,0,0,0,0,0,bulrush,cocklebur,sedge
+wpt644,v,9,1,2016,ms,veg,2,nw,scnwr,scmsu3,0,5,90,5,0,0,0,0,0,0,0,0,0,0,bulrush,cocklebur,sedge

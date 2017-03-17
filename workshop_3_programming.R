@@ -2,9 +2,7 @@
 ##          The Power of Automation  and Programming                           ##
 #################################################################################
 ##  by - Matt Boone (2015) modified by Auriel Fournier (2016)                  ##
-library (dplyr)
-library (ggplot2)
-library(tidyr)
+library(tidyverse)
 
 ##############################################################################
 # We're now moving into the real fun stuff
@@ -29,7 +27,7 @@ if(1>2){print("You can't do math")}   ##1 is not greater than 2 so it did nothin
 
 ##Say we want to figure out if a random number is greater than or less than 5
 
-tt<-sample.int(10,1)
+tt<-sample.int(n=10,size=1) # 10 is the number of items to choose from to select from, 1 is how many intergers we want returned
 tt   #is our random number
 
 #syntax is important when writing if statements, they're very picky in how you tell them what to do
@@ -109,7 +107,7 @@ for(i in 1:10){
 
 for(i in 1:10){
   print(data[i,1]+10)
-}   ###loops through all the rows in column 1 and adds 5 to that value
+}   ###loops through all the rows in column 1 and adds 10 to that value
 
 data[,1] <- 100
 
@@ -121,6 +119,7 @@ data
 
 data[,2]<- data[,1]+10  ###is the best way to do this particular task
 
+data
 #many functions can be vectorized, meaning r automatically loops things together
 paste0('hd',1:10)   ### automatically adds the numbers 1 through 10 onto the word 'hd'
 
@@ -244,16 +243,16 @@ which(row.names(mtcars)=='Pontiac Firebird') - 1   ##gives us the row just befor
 # which(), colnames(), grepl(). 
 # Bonus points if you can figure out how to do it dplyr instead of base R
 
-dat <- read.csv('~/naoc_2016_r_workshop/ebird_data.csv')
+dat <- read.csv('~/r_workshop_u_arkansas_march_2017/ebird_data.csv')
 
-dat %>% head
-
-dat[dat$breeder==1 & dat$passerine==1,grepl('^X',colnames(dat))]
+dat %>% head()
 
 result <- dat %>% 
         filter(breeder==1,passerine==1) %>%
             select(group,contains('X')) %>%
             gather("quarter_month","value",-group)
+
+
 ggplot(data=result, aes(x=quarter_month, y=value)) + 
   geom_point()+facet_wrap(~group)
 
@@ -287,81 +286,32 @@ foo<-function(name){
 foo(name='matt')
 # that was a tangent, lets move forward
 
+
+
 ## lets read in file names
-folder<-'Monstersinc'
-file<-'scaretotal_MikeW_March.csv'
-
-paste0(folder,'/',file)   # so its going to look in what ever folder we told it (Monstersinc in this case)
-# and then its going to look for the file we tell it (in this case scaretotal_MikeW_March.csv)
-read.csv(paste0(folder,'/',file))
-
-# and we can get it to read in any file in that folder by changing the value of file
-
-#This seems a bit silly now, but when we start adding looped variables it's going
-# be a lot easier
-
-###task  Here is a list of files with similar structure but different folders and
-# file beginning names. Write a program that loads a files depending on the month and name
-#file1: scaretotal_MikeW_March.csv
-#file2: scaretotal_JamesS_March.csv
-#file3: scaretotal_MikeW_April.csv
-#file4  scaretotal_JamesS_April.csv
-
-name<-'MikeW'
-month<-'March'
+filenames <- list.files("~/r_workshop_u_arkansas_march_2017/veg_data/",full.names = TRUE)
 
 ####read in this file
-data<-read.csv(paste0(folder,'/','scaretotal_',name,'_',month,'.csv'))
+dat<-read.csv(filenames[1])
 
 # 4. Keep your brackets in order, and label them if necessary
 ##Lets do the same, but now lets write a loop function that loads all
 # possible values. We'll use two for loops
 ###I think im just going to do this together
 
-#task4. I want you to write a function or a for loop that reads in all of the files
-# for MikeW and stores them in a list()
+#task4. I want you to write a function or a for loop that reads in all three veg files and puts them in a list
 
-
-month<-c('March','April')
 
 ##variables#####
-our.list<-list()
+our_list<-list()
 
-  for(p in month){
-our.list[[paste0('MikeW_',p)]]<-read.csv(paste0(folder,'/','scaretotal_MikeW','_',p,'.csv'))
+  for(p in filenames){
+our_list[[p]]<-read.csv(p)
   } 
 
-# now lets write one that reads in all the of files for march
+names(our_list)
 
-##now lets put it all together, lets make it so reads in all the files for both Mike and James for
-# both the months of March and April
-name<-c('MikeW','JamesS')
-month<-c('March','April')
-####code#########
-for(i in name){
-  
-  for(p in month){
-    
-    our.list[[paste0(i,'_',p)]]<-read.csv(paste0(folder,'/','scaretotal_',i,'_',p,'.csv'))
-    
-  }  ##end p loop
-  
-}   ###end i loop
-
-
-# notice how not only are the end brackets labeled 
-# but we're keeping the loops indented appropriately to show that one is nested inside of the other
-# this is not _required_ by R, but it does make things easier. 
-
-#### How to look over files with list.files()
-our.files <- list()
-
-files <- list.files("Monstersinc/",pattern=".csv")
-
-for(i in files){
-  our.files[[i]] <- read.csv(paste0("Monstersinc/",i))
-}
-
+# GO OVER TO auriels_veg_data_example.R
 
 
 

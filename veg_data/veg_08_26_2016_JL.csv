@@ -1,0 +1,40 @@
+point,bv,month,day,year,habtype,spp,round,region,area,impound,int,annual,perennial,up,open,wood,other,crop,central,north,east,south,west,averagewater,plant1,plant2,plant3
+wpt9041,v,8,10,2016,ms,veg,1,nw,nvca,rail,16,5,10,75,5,0,5,0,1.5,0,0,1.5,6.5,,grass,cocklebur,p smartweed
+wpt8911,v,8,10,2016,ms,veg,1,nw,nvca,rail,46,64,0,1,35,0,0,0,37,37,34,36,39,,millet,a smartweed,cocklebur
+wpt8981,v,8,10,2016,ms,veg,1,nw,nvca,rail,26,0,15,70,15,0,0,0,0,0,0,4,8,,grass,a smartweed,cocklebur
+wpt8831,v,8,10,2016,ms,veg,1,nw,nvca,rail,34,78,0,2,20,0,0,0,32,24,34,31,32,,millet,a smartweed,cocklebur
+wpt8941,v,8,10,2016,ms,veg,1,nw,nvca,rail,34,75,0,15,10,0,0,0,13,11,11,15,16,,millet,a smartweed,cocklebur
+wpt8921,v,8,10,2016,ms,veg,1,nw,nvca,rail,26,0,0,90,10,0,0,0,0,0,0,0,0,,grass,cocklebur,common ragweed
+wpt8931,v,8,10,2016,ms,veg,1,nw,nvca,rail,19,0,0,90,10,0,0,0,0,0,0,0,0,,grass,giant ragweed,cocklebur
+wpt9141,v,8,10,2016,ms,veg,1,nw,nvca,rail,23,0,0,95,5,0,0,0,0,0,0,0,0,,grass,cocklebur,giant ragweed
+wpt486,v,8,11,2016,ms,veg,1,nc,fgca,pool2w,0,100,0,0,0,0,0,0,0,0,0,0,0,,prairie cord grass,a smartweed,millet
+wpt488,v,8,11,2016,ms,veg,1,nc,fgca,pool2w,0,100,0,0,0,0,0,0,0,0,0,0,0,,prairie cord grass,a smartweed,millet
+wpt492,v,8,11,2016,ms,veg,1,nc,fgca,pool2w,19,75,0,0,25,0,0,0,0,0,0,0,0,,a smartweed,primrose,prairie cord grass
+wpt498,v,8,11,2016,ms,veg,1,nc,fgca,pool2w,19,75,0,5,15,0,5,0,0,0,0,0,0,,a smartweed,millet,sumpweed
+wpt497,v,8,11,2016,ms,veg,1,nc,fgca,pool2w,19,70,0,10,20,0,0,0,0,0,0,0,0,,a smartweed,sumpweed,prairie cord grass
+wpt481,v,8,11,2016,ms,veg,1,nc,fgca,pool2w,21,15,0,45,40,0,0,0,0,0,0,0,0,,sumpweed,a smartweed,prairie cord grass
+wpt491,v,8,11,2016,ms,veg,1,nc,fgca,pool2w,0,30,25,0,0,0,0,45,0,0,0,0,0,,corn,a smartweed,p smartweed
+wpt495,v,8,11,2016,ms,veg,1,nc,fgca,pool2w,0,40,60,0,0,0,0,0,0,0,0,0,0,,p smartweed,a smartweed,prairie cord grass
+wpt489,v,8,11,2016,ms,veg,1,nc,fgca,pool2w,0,0,85,5,0,0,0,10,0,0,0,0,0,,p smartweed,corn,prairie cord grass
+wpt493,v,8,11,2016,ms,veg,1,nc,fgca,pool2w,0,0,80,0,0,5,0,15,0,0,0,0,0,,p smartweed,corn,willow
+wpt500,v,8,11,2016,ms,veg,1,nc,fgca,pool2w,0,5,85,5,0,5,0,0,0,0,0,0,0,,p smartweed,willow,prairie cord grass
+wpt485,v,8,11,2016,ms,veg,1,nc,fgca,pool2w,16,0,90,0,9,1,0,0,0,0,0,0,0,,p smartweed,grass,willow
+wpt490,v,8,11,2016,ms,veg,1,nc,fgca,pool2w,13,5,65,5,10,0,0,15,0,0,0,0,0,,p smartweed,corn,prairie cord grass
+wpt499,v,8,11,2016,ms,veg,1,nc,fgca,pool2w,18,25,5,0,25,0,0,45,0,0,0,0,0,,corn,prairie cord grass,p smartweed
+wpt494,v,8,11,2016,ms,veg,1,nc,fgca,pool2w,0,30,35,0,0,0,0,35,0,0,0,0,0,,p smartweed,corn,prairie cord grass
+wpt484,v,8,11,2016,ms,veg,1,nc,fgca,pool2w,0,10,80,10,0,0,0,0,0,0,0,0,0,,p smartweed,prairie cord grass,sumpweed
+wpt487,v,8,11,2016,ms,veg,1,nc,fgca,pool2w,0,0,0,0,100,0,0,0,0,0,0,0,0,,NA,NA,NA
+wpt109,v,8,21,2016,ms,veg,1,nc,slnwr,m11,4,4,1,75,5,10,5,0,0,0,0,0,0,,sumpweed,buttonbush,toothcup
+wpt105,v,8,21,2016,ms,veg,1,nc,slnwr,m11,0,38,35,25,0,2,0,0,6.5,6,8,5,1.5,,spikerush,biden,grass
+wpt112,v,8,21,2016,ms,veg,1,nc,slnwr,m11,0,50,50,0,0,0,0,0,17,16.5,16,12,15.5,,spikerush,p smartweed,bulrush
+wpt102,v,8,21,2016,ms,veg,1,nc,slnwr,m11,0,30,70,0,0,0,0,0,22,18,18,18,18.5,,p smartweed,spikerush,bulrush
+wpt108,v,8,21,2016,ms,veg,1,nc,slnwr,m11,0,30,65,0,0,5,0,0,12,15,12,13,12,,p smartweed,spikerush,bulrush
+wpt106,v,8,21,2016,ms,veg,1,nc,slnwr,m11,0,30,65,0,0,5,0,0,24,18,22,21,24,,p smartweed,spikerush,bulrush
+JL001S01F,b,8,21,2016,ms,SORA,1,nc,slnwr,m11,0,30,65,0,0,5,0,0,18,21,24,23,24,,p smartweed,spikerush,bulrush
+wpt119,v,8,21,2016,ms,veg,1,nc,slnwr,m11,0,30,65,0,0,5,0,0,20,18,20,24,20,,p smartweed,spikerush,bulrush
+wpt101,v,8,21,2016,ms,veg,1,nc,slnwr,m11,0,30,65,0,0,5,0,0,18,22,18,21,16,,p smartweed,spikerush,bulrush
+wpt103,v,8,21,2016,ms,veg,1,nc,slnwr,m11,0,41,55,0,0,4,0,0,14,14,18,14,15,,spikerush,p smartweed,bulrush
+wpt113,v,8,21,2016,ms,veg,1,nc,slnwr,m11,0,0,0,85,0,10,5,0,0,0,0,0,0,,sumpweed,grass,toothcup
+wpt118,v,8,21,2016,ms,veg,1,nc,slnwr,m11,0,35,60,0,0,5,0,0,15,18,15,20,18,,spikerush,p smartweed,bulrush
+JL002S00F,b,8,21,2016,ms,SORA,1,nc,slnwr,m11,0,31,65,0,0,4,0,0,24,25,21,26,30,,spikerush,p smartweed,arrowhead
+wpt104,v,8,21,2016,ms,veg,1,nc,slnwr,m11,0,30,68,0,0,2,0,0,25,24,25,27,26,,spikerush,p smartweed,arrowhead

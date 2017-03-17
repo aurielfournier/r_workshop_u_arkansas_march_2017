@@ -1,0 +1,100 @@
+"point","bv","month","day","year","habtype","spp","round","region","area","impound","int","annual","perennial","up","open","wood","other","crop","central","north","east","south","west","averagewater","plant1","plant2","plant3"
+"wpt9041","v",8,10,2016,"ms","veg",1,"nw","nvca","rail",16,5,10,75,5,0,5,0,1.5,0,0,1.5,6.5,NA,"grass","cocklebur","p smartweed"
+"wpt8911","v",8,10,2016,"ms","veg",1,"nw","nvca","rail",46,64,0,1,35,0,0,0,37,37,34,36,39,NA,"millet","a smartweed","cocklebur"
+"wpt8981","v",8,10,2016,"ms","veg",1,"nw","nvca","rail",26,0,15,70,15,0,0,0,0,0,0,4,8,NA,"grass","a smartweed","cocklebur"
+"wpt8831","v",8,10,2016,"ms","veg",1,"nw","nvca","rail",34,78,0,2,20,0,0,0,32,24,34,31,32,NA,"millet","a smartweed","cocklebur"
+"wpt8941","v",8,10,2016,"ms","veg",1,"nw","nvca","rail",34,75,0,15,10,0,0,0,13,11,11,15,16,NA,"millet","a smartweed","cocklebur"
+"wpt8921","v",8,10,2016,"ms","veg",1,"nw","nvca","rail",26,0,0,90,10,0,0,0,0,0,0,0,0,NA,"grass","cocklebur","common ragweed"
+"wpt8931","v",8,10,2016,"ms","veg",1,"nw","nvca","rail",19,0,0,90,10,0,0,0,0,0,0,0,0,NA,"grass","giant ragweed","cocklebur"
+"wpt9141","v",8,10,2016,"ms","veg",1,"nw","nvca","rail",23,0,0,95,5,0,0,0,0,0,0,0,0,NA,"grass","cocklebur","giant ragweed"
+"wpt486","v",8,11,2016,"ms","veg",1,"nc","fgca","pool2w",0,100,0,0,0,0,0,0,0,0,0,0,0,NA,"prairie cord grass","a smartweed","millet"
+"wpt488","v",8,11,2016,"ms","veg",1,"nc","fgca","pool2w",0,100,0,0,0,0,0,0,0,0,0,0,0,NA,"prairie cord grass","a smartweed","millet"
+"wpt492","v",8,11,2016,"ms","veg",1,"nc","fgca","pool2w",19,75,0,0,25,0,0,0,0,0,0,0,0,NA,"a smartweed","primrose","prairie cord grass"
+"wpt498","v",8,11,2016,"ms","veg",1,"nc","fgca","pool2w",19,75,0,5,15,0,5,0,0,0,0,0,0,NA,"a smartweed","millet","sumpweed"
+"wpt497","v",8,11,2016,"ms","veg",1,"nc","fgca","pool2w",19,70,0,10,20,0,0,0,0,0,0,0,0,NA,"a smartweed","sumpweed","prairie cord grass"
+"wpt481","v",8,11,2016,"ms","veg",1,"nc","fgca","pool2w",21,15,0,45,40,0,0,0,0,0,0,0,0,NA,"sumpweed","a smartweed","prairie cord grass"
+"wpt491","v",8,11,2016,"ms","veg",1,"nc","fgca","pool2w",0,30,25,0,0,0,0,45,0,0,0,0,0,NA,"corn","a smartweed","p smartweed"
+"wpt495","v",8,11,2016,"ms","veg",1,"nc","fgca","pool2w",0,40,60,0,0,0,0,0,0,0,0,0,0,NA,"p smartweed","a smartweed","prairie cord grass"
+"wpt489","v",8,11,2016,"ms","veg",1,"nc","fgca","pool2w",0,0,85,5,0,0,0,10,0,0,0,0,0,NA,"p smartweed","corn","prairie cord grass"
+"wpt493","v",8,11,2016,"ms","veg",1,"nc","fgca","pool2w",0,0,80,0,0,5,0,15,0,0,0,0,0,NA,"p smartweed","corn","willow"
+"wpt500","v",8,11,2016,"ms","veg",1,"nc","fgca","pool2w",0,5,85,5,0,5,0,0,0,0,0,0,0,NA,"p smartweed","willow","prairie cord grass"
+"wpt485","v",8,11,2016,"ms","veg",1,"nc","fgca","pool2w",16,0,90,0,9,1,0,0,0,0,0,0,0,NA,"p smartweed","grass","willow"
+"wpt490","v",8,11,2016,"ms","veg",1,"nc","fgca","pool2w",13,5,65,5,10,0,0,15,0,0,0,0,0,NA,"p smartweed","corn","prairie cord grass"
+"wpt499","v",8,11,2016,"ms","veg",1,"nc","fgca","pool2w",18,25,5,0,25,0,0,45,0,0,0,0,0,NA,"corn","prairie cord grass","p smartweed"
+"wpt494","v",8,11,2016,"ms","veg",1,"nc","fgca","pool2w",0,30,35,0,0,0,0,35,0,0,0,0,0,NA,"p smartweed","corn","prairie cord grass"
+"wpt484","v",8,11,2016,"ms","veg",1,"nc","fgca","pool2w",0,10,80,10,0,0,0,0,0,0,0,0,0,NA,"p smartweed","prairie cord grass","sumpweed"
+"wpt487","v",8,11,2016,"ms","veg",1,"nc","fgca","pool2w",0,0,0,0,100,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+"wpt109","v",8,21,2016,"ms","veg",1,"nc","slnwr","m11",4,4,1,75,5,10,5,0,0,0,0,0,0,NA,"sumpweed","buttonbush","toothcup"
+"wpt105","v",8,21,2016,"ms","veg",1,"nc","slnwr","m11",0,38,35,25,0,2,0,0,6.5,6,8,5,1.5,NA,"spikerush","biden","grass"
+"wpt112","v",8,21,2016,"ms","veg",1,"nc","slnwr","m11",0,50,50,0,0,0,0,0,17,16.5,16,12,15.5,NA,"spikerush","p smartweed","bulrush"
+"wpt102","v",8,21,2016,"ms","veg",1,"nc","slnwr","m11",0,30,70,0,0,0,0,0,22,18,18,18,18.5,NA,"p smartweed","spikerush","bulrush"
+"wpt108","v",8,21,2016,"ms","veg",1,"nc","slnwr","m11",0,30,65,0,0,5,0,0,12,15,12,13,12,NA,"p smartweed","spikerush","bulrush"
+"wpt106","v",8,21,2016,"ms","veg",1,"nc","slnwr","m11",0,30,65,0,0,5,0,0,24,18,22,21,24,NA,"p smartweed","spikerush","bulrush"
+"JL001S01F","b",8,21,2016,"ms","SORA",1,"nc","slnwr","m11",0,30,65,0,0,5,0,0,18,21,24,23,24,NA,"p smartweed","spikerush","bulrush"
+"wpt119","v",8,21,2016,"ms","veg",1,"nc","slnwr","m11",0,30,65,0,0,5,0,0,20,18,20,24,20,NA,"p smartweed","spikerush","bulrush"
+"wpt101","v",8,21,2016,"ms","veg",1,"nc","slnwr","m11",0,30,65,0,0,5,0,0,18,22,18,21,16,NA,"p smartweed","spikerush","bulrush"
+"wpt103","v",8,21,2016,"ms","veg",1,"nc","slnwr","m11",0,41,55,0,0,4,0,0,14,14,18,14,15,NA,"spikerush","p smartweed","bulrush"
+"wpt113","v",8,21,2016,"ms","veg",1,"nc","slnwr","m11",0,0,0,85,0,10,5,0,0,0,0,0,0,NA,"sumpweed","grass","toothcup"
+"wpt118","v",8,21,2016,"ms","veg",1,"nc","slnwr","m11",0,35,60,0,0,5,0,0,15,18,15,20,18,NA,"spikerush","p smartweed","bulrush"
+"JL002S00F","b",8,21,2016,"ms","SORA",1,"nc","slnwr","m11",0,31,65,0,0,4,0,0,24,25,21,26,30,NA,"spikerush","p smartweed","arrowhead"
+"wpt104","v",8,21,2016,"ms","veg",1,"nc","slnwr","m11",0,30,68,0,0,2,0,0,25,24,25,27,26,NA,"spikerush","p smartweed","arrowhead"
+"WPT161","v",8,31,2016,"ms","veg",1,"ne","tsca","ts4a",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"WPT162","v",8,31,2016,"ms","veg",1,"ne","tsca","ts4a",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"WPT163","v",8,31,2016,"ms","veg",1,"ne","tsca","ts4a",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"WPT164","v",8,31,2016,"ms","veg",1,"ne","tsca","ts4a",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"WPT165","v",8,31,2016,"ms","veg",1,"ne","tsca","ts4a",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"WPT166","v",8,31,2016,"ms","veg",1,"ne","tsca","ts4a",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"WPT167","v",8,31,2016,"ms","veg",1,"ne","tsca","ts4a",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"WPT168","v",8,31,2016,"ms","veg",1,"ne","tsca","ts4a",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"WPT169","v",8,31,2016,"ms","veg",1,"ne","tsca","ts4a",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"WPT170","v",8,31,2016,"ms","veg",1,"ne","tsca","ts4a",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"WPT171","v",8,31,2016,"ms","veg",1,"ne","tsca","ts4a",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"WPT172","v",8,31,2016,"ms","veg",1,"ne","tsca","ts4a",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"WPT173","v",8,31,2016,"ms","veg",1,"ne","tsca","ts4a",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"WPT174","v",8,31,2016,"ms","veg",1,"ne","tsca","ts4a",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"WPT175","v",8,31,2016,"ms","veg",1,"ne","tsca","ts4a",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"WPT176","v",8,31,2016,"ms","veg",1,"ne","tsca","ts4a",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"WPT177","v",8,31,2016,"ms","veg",1,"ne","tsca","ts4a",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"WPT178","v",8,31,2016,"ms","veg",1,"ne","tsca","ts4a",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"WPT179","v",8,31,2016,"ms","veg",1,"ne","tsca","ts4a",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"WPT180","v",8,31,2016,"ms","veg",1,"ne","tsca","ts4a",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"wpt9041","v",8,31,2016,"ms","veg",2,"nw","nvca","rail",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"wpt895","v",8,31,2016,"ms","veg",2,"nw","nvca","rail",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"wpt887","v",8,31,2016,"ms","veg",2,"nw","nvca","rail",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"wpt8911","v",8,31,2016,"ms","veg",2,"nw","nvca","rail",NA,NA,NA,NA,NA,NA,NA,NA,26,27,28,28,29,27.6,NA,NA,NA
+"wpt8981","v",8,31,2016,"ms","veg",2,"nw","nvca","rail",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"wpt8941","v",8,31,2016,"ms","veg",2,"nw","nvca","rail",NA,NA,NA,NA,NA,NA,NA,NA,4,8,8,10,12,8.4,NA,NA,NA
+"wpt9141","v",8,31,2016,"ms","veg",2,"nw","nvca","rail",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"wpt9201","v",8,31,2016,"ms","veg",2,"nw","nvca","rail",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"wpt8931","v",8,31,2016,"ms","veg",2,"nw","nvca","rail",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"wpt8921","v",8,31,2016,"ms","veg",2,"nw","nvca","rail",NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,NA,NA,NA
+"wpt9011","v",8,31,2016,"ms","veg",2,"nw","nvca","rail",NA,NA,NA,NA,NA,NA,NA,NA,0,2,5,6,6,3.8,NA,NA,NA
+"wpt8831","v",8,31,2016,"ms","veg",2,"nw","nvca","rail",NA,NA,NA,NA,NA,NA,NA,NA,16,22,24,27,32,24.2,NA,NA,NA
+"wptr007","v",8,31,2016,"ms","veg",2,"nw","nvca","rail",32,65,0,5,30,0,0,0,10,14,20,28,34,21.2,"millet","a smartweed","grass"
+"wptr003","v",8,31,2016,"ms","veg",2,"nw","nvca","rail",29,80,0,10,10,0,0,0,17,18,18,18,19,18,"a smartweed","millet","grass"
+"wpt888","v",8,31,2016,"ms","veg",2,"nw","nvca","rail",23,40,0,45,15,0,0,0,6,10,12,13,15,11.2,"a smartweed","grass","grass"
+"wptr006","v",8,31,2016,"ms","veg",2,"nw","nvca","rail",38,35,0,5,60,0,0,0,30,34,38,45,40,37.4,"a smartweed","millet","upland"
+"wptr002","v",8,31,2016,"ms","veg",2,"nw","nvca","rail",0,10,0,90,0,0,0,0,0,0,2,0,0,0.4,"grass","grass","a smartweed"
+"wptr004","v",8,31,2016,"ms","veg",2,"nw","nvca","rail",25,15,0,45,40,0,0,0,0,0,0,0,0,0,"grass","giant ragweed","a smartweed"
+"wptr001","v",8,31,2016,"ms","veg",2,"nw","nvca","rail",36,35,0,30,35,0,0,0,8,14,15,18,25,16,"grass","a smartweed","millet"
+"wptr005","v",8,31,2016,"ms","veg",2,"nw","nvca","rail",22,60,0,30,10,0,0,0,2,0,1,0,0,0.6,"grass","millet","a smartweed"
+"wpt986","v",8,31,2016,"ms","veg",2,"nw","nvca","sanctuary",NA,NA,NA,NA,NA,NA,NA,NA,1,6,27,0,0,6.8,NA,NA,NA
+"wpt662","v",9,1,2016,"ms","veg",2,"nw","scnwr","scmsu2",0,70,9,20,0,1,0,0,0,0,0,0,0,0,"a smartweed","upland","bulrush"
+"wpt668","v",9,1,2016,"ms","veg",2,"nw","scnwr","scmsu2",0,85,10,3,0,2,0,0,0,0,0,0,0,0,"a smartweed","bulrush","cocklebur"
+"wpt667","v",9,1,2016,"ms","veg",2,"nw","scnwr","scmsu2",0,90,5,1,0,4,0,0,0,0,0,0,0,0,"a smartweed","bulrush","willow"
+"wpt663","v",9,1,2016,"ms","veg",2,"nw","scnwr","scmsu2",35,40,0,40,20,0,0,0,0,0,0,0,0,0,"upland","millet","grass"
+"wpt677","v",9,1,2016,"ms","veg",2,"nw","scnwr","scmsu2",35,40,0,40,20,0,0,0,0,0,0,0,0,0,"millet","biden","grass"
+"wpt661","v",9,1,2016,"ms","veg",2,"nw","scnwr","scmsu2",24,10,0,80,10,0,0,0,0,0,0,0,0,0,"upland","millet","sedge"
+"wpt673","v",9,1,2016,"ms","veg",2,"nw","scnwr","scmsu2",0,20,10,65,0,5,0,0,0,0,0,0,0,0,"grass","a smartweed","bulrush"
+"wpt665","v",9,1,2016,"ms","veg",2,"nw","scnwr","scmsu2",0,75,10,15,0,0,0,0,0,0,0,0,0,0,"a smartweed","cocklebur","bulrush"
+"wpt670","v",9,1,2016,"ms","veg",2,"nw","scnwr","scmsu2",0,10,5,85,0,0,0,0,0,0,0,0,0,0,"upland","cocklebur","millet"
+"wpt664","v",9,1,2016,"ms","veg",2,"nw","scnwr","scmsu2",0,5,5,90,0,0,0,0,0,0,0,0,0,0,"upland","cocklebur","a smartweed"
+"wpt666","v",9,1,2016,"ms","veg",2,"nw","scnwr","scmsu2",0,30,30,40,0,0,0,0,0,0,0,0,0,0,"grass","a smartweed","bulrush"
+"wpt680","v",9,1,2016,"ms","veg",2,"nw","scnwr","scmsu2",0,0,1,95,4,0,0,0,0,0,0,0,0,0,"grass","cottonwood","bulrush"
+"wpt649","v",9,1,2016,"ms","veg",2,"nw","scnwr","scmsu3",0,0,5,95,0,0,0,0,0,0,0,0,0,0,"grass","upland","bulrush"
+"wpt654","v",9,1,2016,"ms","veg",2,"nw","scnwr","scmsu3",0,15,85,0,0,0,0,0,0,0,0,0,0,0,"bulrush","a smartweed","millet"
+"wpt645","v",9,1,2016,"ms","veg",2,"nw","scnwr","scmsu3",0,10,65,25,0,0,0,0,0,0,0,0,0,0,"bulrush","cocklebur","a smartweed"
+"wpt646","v",9,1,2016,"ms","veg",2,"nw","scnwr","scmsu3",0,10,85,4,0,1,0,0,0,0,0,0,0,0,"bulrush","a smartweed","biden"
+"wpt647","v",9,1,2016,"ms","veg",2,"nw","scnwr","scmsu3",0,0,85,15,0,0,0,0,0,0,0,0,0,0,"bulrush","cocklebur","p smartweed"
+"wpt642","v",9,1,2016,"ms","veg",2,"nw","scnwr","scmsu3",0,5,85,10,0,0,0,0,0,0,0,0,0,0,"bulrush","cocklebur","sedge"
+"wpt644","v",9,1,2016,"ms","veg",2,"nw","scnwr","scmsu3",0,5,90,5,0,0,0,0,0,0,0,0,0,0,"bulrush","cocklebur","sedge"
